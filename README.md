@@ -42,29 +42,27 @@ The app features a unique folklore-style storytelling approach for rural users a
 
 ### Frontend
 - **Framework**: Flutter
-- **Language**: Dart
+- **Language**: 
 - **UI/UX**: Material Design, Flutter Widgets
 - **State Management**: Provider/Riverpod
-- **Networking**: Dio/HTTP package
-- **Local Storage**: Hive/SharedPreferences
+- **Networking**: API/HTTP package
 
 ### Backend
 - **Cloud**: Google Cloud Platform (GCP)
 - **AI & ML**: Vertex AI
-- **Database**: Firestore
+- **Database**: Firebase
 - **Authentication**: Firebase Auth
 - **Storage**: Google Cloud Storage
 
 ### AI Integration
 - **RAG System**: Retrieval-Augmented Generation
 - **Knowledge Graphs**: Enhanced AI insights
-- **LLM**: OpenAI API via Vertex AI
+- **LLM**: OpenAI API/Vertex AI
 - **OCR**: Google Cloud Vision API
 - **Speech-to-Text**: Google Speech API
 
 ## Security & Compliance
 
-- AES-256 encryption for health records
 - GDPR & HIPAA compliance
 - Role-based access control
 
