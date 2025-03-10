@@ -17,23 +17,23 @@ The app features a unique folklore-style storytelling approach for rural users a
 
 ## Key Features
 
-### 🗣️ Conversational AI with Storytelling
+### Conversational AI with Storytelling
 - Interactive folklore-based educational stories
 - AI-driven responses on health and rights topics
 - Voice-based interaction support
 
-### 📋 Health Report Analysis
+### Health Report Analysis
 - Upload health reports (PDF, image, or text)
 - AI-powered analysis and insights
 - RAG-based system with medical knowledge graphs
 
-### 👭 Community & Support
+### Community & Support
 - Moderated forums and discussion groups
 - NGO connections for mental health support
 - Access to verified health professionals
 - Crisis helpline integration
 
-### 🌍 Localized Content
+### Localized Content
 - Age-appropriate material for different demographics
 - Multi-language support based on region
 - Adaptive content delivery
@@ -86,7 +86,7 @@ The app features a unique folklore-style storytelling approach for rural users a
    - Participate in moderated discussion forums
    - Access crisis support resources
 
-## 📝 Project Status
+## Project Status
 
 -  Architecture planning complete
 -  Tech stack selected
