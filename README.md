@@ -2,20 +2,20 @@
 
 A mobile application empowering women and girls through storytelling, health education, and community support.
 
-## 🌟 Overview
+## Overview
 
 Duosaki is a mobile application designed to facilitate crucial conversations with women and girls about:
 
 - Women's health education
 - Rights and civic awareness
-- Personal safety (good touch vs. bad touch)
+- Personal safety
 - Mental health resources
 - Age-appropriate, region-specific content
 - Community support networks
 
 The app features a unique folklore-style storytelling approach for rural users and advanced health report analysis using AI.
 
-## ✨ Key Features
+## Key Features
 
 ### 🗣️ Conversational AI with Storytelling
 - Interactive folklore-based educational stories
@@ -38,7 +38,7 @@ The app features a unique folklore-style storytelling approach for rural users a
 - Multi-language support based on region
 - Adaptive content delivery
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Framework**: Flutter
@@ -62,29 +62,14 @@ The app features a unique folklore-style storytelling approach for rural users a
 - **OCR**: Google Cloud Vision API
 - **Speech-to-Text**: Google Speech API
 
-## 🔒 Security & Compliance
+## Security & Compliance
 
 - AES-256 encryption for health records
 - GDPR & HIPAA compliance
 - Role-based access control
 
-## 🚀 Getting Started
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/duosaki.git
-
-# Navigate to the project directory
-cd duosaki
-
-# Install dependencies
-flutter pub get
-
-# Run the app
-flutter run
-```
-
-## 📱 App Workflow
+## App Workflow
 
 1. **Health Report Analysis**
    - Upload health documents
@@ -103,9 +88,9 @@ flutter run
 
 ## 📝 Project Status
 
-- ✅ Architecture planning complete
-- ✅ Tech stack selected
-- 🔄 UI/UX design in progress
-- 🔄 AI model integration in progress
-- 🔄 Expanding language support
-- 🔄 NGO partnerships in development
+-  Architecture planning complete
+-  Tech stack selected
+-  UI/UX design in progress
+-  AI model integration in progress
+-  Expanding language support
+-  NGO partnerships in development
