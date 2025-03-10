@@ -50,7 +50,7 @@ The app features a unique folklore-style storytelling approach for rural users a
 ### Backend
 - **Cloud**: Google Cloud Platform (GCP)
 - **AI & ML**: Vertex AI
-- **Database**: Firebase
+- **Database**: Firestore
 - **Authentication**: Firebase Auth
 - **Storage**: Google Cloud Storage
 
